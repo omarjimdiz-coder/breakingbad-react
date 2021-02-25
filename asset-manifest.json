@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/breakingbad-react/static/css/main.083e8452.chunk.css",
+    "main.js": "/breakingbad-react/static/js/main.a5cb0c90.chunk.js",
+    "main.js.map": "/breakingbad-react/static/js/main.a5cb0c90.chunk.js.map",
+    "runtime-main.js": "/breakingbad-react/static/js/runtime-main.ac4009a8.js",
+    "runtime-main.js.map": "/breakingbad-react/static/js/runtime-main.ac4009a8.js.map",
+    "static/js/2.c7a23660.chunk.js": "/breakingbad-react/static/js/2.c7a23660.chunk.js",
+    "static/js/2.c7a23660.chunk.js.map": "/breakingbad-react/static/js/2.c7a23660.chunk.js.map",
+    "index.html": "/breakingbad-react/index.html",
+    "static/css/main.083e8452.chunk.css.map": "/breakingbad-react/static/css/main.083e8452.chunk.css.map",
+    "static/js/2.c7a23660.chunk.js.LICENSE.txt": "/breakingbad-react/static/js/2.c7a23660.chunk.js.LICENSE.txt",
+    "static/media/bad.92291d9e.png": "/breakingbad-react/static/media/bad.92291d9e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4009a8.js",
+    "static/js/2.c7a23660.chunk.js",
+    "static/css/main.083e8452.chunk.css",
+    "static/js/main.a5cb0c90.chunk.js"
+  ]
+}
